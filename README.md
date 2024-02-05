@@ -1,4 +1,4 @@
-#Tictactoe game using minimax algortithm
+# Tictactoe game using minimax algortithm
 Where X aims to maximise the score and O aims to minimise the score 
 
 ## Project structure
